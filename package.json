@@ -1,0 +1,20 @@
+{
+  "name": "localized-resource-api",
+  "version": "1.0.0",
+  "description": "An in-memory localized RESTful API built with Node.js and Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "rest-api",
+    "in-memory"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
